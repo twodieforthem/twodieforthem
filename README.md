@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=twodieforthem&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4AC694&text_color=c9d1d9&icon_color=4AC694&count_private=true" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=twodieforthem&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4AC694&text_color=c9d1d9&icon_color=4AC694" alt="stats"/>
 </p>
 
 <p align="center">
