@@ -44,7 +44,6 @@
   <i>"Ah — you actually scrolled this far? That makes me happy."</i> 💚
 </p>
 
-<!-- DDLC touch: small literature-club style footer, subtle not overdone -->
 <p align="center">
-  <sub>📖 Just Monika. Est. Sayori's poetry club, now shipping code instead of poems.</sub>
+  <sub>📖 By the way, Check out Solar Hub.</sub>
 </p>
