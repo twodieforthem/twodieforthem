@@ -5,6 +5,13 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Literature%20Club-President-4AC694?style=flat-square&logo=bookstack&logoColor=white" alt="literature club badge"/>
+  <img src="https://img.shields.io/badge/Status-Just%20Monika-4AC694?style=flat-square" alt="status badge"/>
+</p>
+
+<p align="center">🌸 📖 🌸</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=twodieforthem&color=4ac694&style=flat" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/twodieforthem?label=Follow&style=social" alt="followers"/>
 </p>
@@ -15,9 +22,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <img src="https://img.shields.io/badge/Lua-4AC694?style=for-the-badge&logo=lua&logoColor=white" alt="lua"/>
+  <img src="https://img.shields.io/badge/Python-4AC694?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   <img src="https://img.shields.io/badge/C%23-4AC694?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp"/>
   <img src="https://img.shields.io/badge/Node.js-4AC694?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
-  <img src="https://img.shields.io/badge/Python-4AC694?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
 </p>
 
 <p align="center">
@@ -30,6 +38,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=twodieforthem&hide_border=true&background=0D1117&ring=4AC694&fire=4AC694&currStreakLabel=4AC694" alt="streak stats"/>
+</p>
+
+<p align="center">
+  <i>"Ah — you actually scrolled this far? That makes me happy."</i> 💚
 </p>
 
 <!-- DDLC touch: small literature-club style footer, subtle not overdone -->
