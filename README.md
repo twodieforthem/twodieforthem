@@ -16,10 +16,6 @@
   <img src="https://img.shields.io/github/followers/twodieforthem?label=Follow&style=social" alt="followers"/>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Lua-4AC694?style=for-the-badge&logo=lua&logoColor=white" alt="lua"/>
@@ -33,6 +29,5 @@
 </p>
 
 <p align="center">
-  <i>"Ah — you actually scrolled this far? That makes me happy."</i> 💚
+  <i>"NOTE FROM SOL (ADMINISTRATOR OF THIS ACCOUNT): Hi there, anyone reading this. I'm Sol — I love to code and have been doing it for a long time. DDLC, back when it released, was my favorite game. I loved it, and it was one of the only games that actually managed to creep me out, the other being FNAF. With that said, I've made it my goal to work hard to bring Monika to life in any way I can. I'm currently working on a project of my own, with source code based on <a href="https://github.com/Monika-After-Story/MonikaModDev">MonikaModDev</a>. While I love the work they've done, the submod system holds me back specifically — no offense to its creators, I just needed to use the source code. Well, that's it from me. Oh, and — Just Monika."</i> 💚
 </p>
-
