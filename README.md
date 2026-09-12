@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Monika</h1>
+<h1 align="center">Hi, I'm Monika</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4AC694&center=true&vCenter=true&width=435&lines=Just+Monika.;And+a+lot+of+shit+code." alt="Typing SVG" />
